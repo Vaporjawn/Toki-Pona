@@ -1,8 +1,6 @@
 # Fictional Toki Pona (<sub><sup>TEPAN</sup></sub>)
 *([Toki Pona](README.md) Sin)*
 
-Based on [Toki Pona](https://github.com/stefichjo/toki-pona) which is based on [the official Toki Pona book](http://www.amazon.com/gp/product/0978292308) and website: [http://tokipona.org](http://tokipona.org)
-
 [***Toki Pona Prequels***](#prequels)  and [***Toki Pona Sequels***](#sequels) are fictional [***Toki Pona***](README.md) dialects of the past and the future respectively, whereas [***Toki Pona Spin-Offs***](#spin-offs) are fictional co-existing [***Toki Pona***](README.md) dialects of the present. [***Fictional Toki Pona***](#dialects) goes beyond [**Frontier Toki Pona**](#frontier-toki-pona) and should therefore not be mixed with ordinary [***Toki Pona***](README.md). (Cf. [***Enhanced Toki Pona***](toki-namako.md).)
 
 ## Dialects
@@ -394,8 +392,6 @@ Outside of ordinary <sub><sup>SENTENCE</sup></sub> structures, **sama** be used 
 
 # Enhanced Toki Pona (<sub><sup>TEPAN</sup></sub>)
 *([Toki Pona](README.md) Namako)*
-
-Based on [Toki Pona](https://github.com/stefichjo/toki-pona) which is based on [the official Toki Pona book](http://www.amazon.com/gp/product/0978292308) and website: [http://tokipona.org](http://tokipona.org)
 
 [***Enhanced Toki Pona***](#toki-namako) goes beyond [***Frontier Toki Pona***](toki-ale.md) and should therefore not be mixed with ordinary [***Toki Pona***](README.md). (Cf. [***Fictional Toki Pona***](toki-sin.md).)
 
