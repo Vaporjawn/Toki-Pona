@@ -32,7 +32,7 @@ Toki Pona has around 120 to 137 root words, depending on the version, and it use
 
 ## Thanks to all Contributors 💪
 
-Thanks a lot for contributing to Focusly.
+Thanks a lot for contributing to Toki Pona.
 
 [![Contributors](https://contrib.rocks/image?repo=Vaporjawn/Toki-Pona)](https://github.com/Vaporjawn/Toki-Pona/graphs/contributors)
 
