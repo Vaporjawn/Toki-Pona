@@ -1,9 +1,9 @@
 # Dictionary
 *(nimi ale)*
 
-This creative work by Stephan Schneider is based on [the official Toki Pona book](http://www.amazon.com/gp/product/0978292308) and website: [http://tokipona.org](http://tokipona.org)
+Based on [Toki Pona](https://github.com/stefichjo/toki-pona) which is based on [the official Toki Pona book](http://www.amazon.com/gp/product/0978292308) and website: [http://tokipona.org](http://tokipona.org)
 
-<!-- 
+<!--
 TODO
 
 KU
@@ -18,7 +18,7 @@ n
 misikeke
  -->
 
-<!-- 
+<!--
 TODO
 unpa
  -->
@@ -181,7 +181,7 @@ unpa
 ### NOUN
 <sub><sup>NIMI LAWA</sup></sub>
 
-You can convert any <sub><sup>NOUN</sup></sub> into an <sub><sup>ADJECTIVE</sup></sub> meaning *of ...*. 
+You can convert any <sub><sup>NOUN</sup></sub> into an <sub><sup>ADJECTIVE</sup></sub> meaning *of ...*.
 
 | <sub><sup>NOUN</sup></sub> jan |
 |:-|
@@ -190,7 +190,7 @@ You can convert any <sub><sup>NOUN</sup></sub> into an <sub><sup>ADJECTIVE</sup>
 #### PRONOUN
 <sub><sup>NIMI LAWA SAMA</sup></sub>
 
-You can convert any <sub><sup>PRONOUN</sup></sub> into an <sub><sup>ADJECTIVE</sup></sub> meaning *of ...*. 
+You can convert any <sub><sup>PRONOUN</sup></sub> into an <sub><sup>ADJECTIVE</sup></sub> meaning *of ...*.
 
 | <sub><sup>PRONOUN</sup></sub> sina |
 |:-|

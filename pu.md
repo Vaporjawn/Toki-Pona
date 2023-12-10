@@ -1,11 +1,11 @@
 # Official Toki Pona ([<sub><sup>SONJA</sup></sub>](http://www.amazon.com/gp/product/0978292308))
 
-This creative work by Stephan Schneider is based on [the official Toki Pona book](http://www.amazon.com/gp/product/0978292308) and website: [http://tokipona.org](http://tokipona.org)
+Based on [Toki Pona](https://github.com/stefichjo/toki-pona) which is based on [the official Toki Pona book](http://www.amazon.com/gp/product/0978292308) and website: [http://tokipona.org](http://tokipona.org)
 
 | |
 |:-|
 | [Terminology](#terminology) |
-| [Grammar](#Grammar) |
+| [Grammar](#grammar) |
 | [Punctuation](#punctuation) |
 | [Corpus](#corpus) |
 | [Errata](#errata) |
@@ -221,6 +221,7 @@ A subordinating *comma* between a <sub><sup>SUBORDINATE CLAUSE</sup></sub> and *
 ### Limitations
 
 ### Lesson 1
+
 *(Letters and Sounds)*
 
 | jaki |
@@ -232,6 +233,7 @@ A subordinating *comma* between a <sub><sup>SUBORDINATE CLAUSE</sup></sub> and *
 | *moo* |
 
 ### Lesson 2
+
 *(Words and Sentences)*
 
 | ijo |
@@ -251,6 +253,7 @@ A subordinating *comma* between a <sub><sup>SUBORDINATE CLAUSE</sup></sub> and *
 | *This is a piece of paper.* |
 
 ### Lesson 3
+
 *(Nouns and Adjectives)*
 
 | soweli meli li pona. |
@@ -258,6 +261,7 @@ A subordinating *comma* between a <sub><sup>SUBORDINATE CLAUSE</sup></sub> and *
 | *The female animal is friendly.* |
 
 ### Lesson 4
+
 *(You and I)*
 
 | wawa |
@@ -269,6 +273,7 @@ A subordinating *comma* between a <sub><sup>SUBORDINATE CLAUSE</sup></sub> and *
 | *This is my kiwi.* |
 
 ### Lesson 5
+
 *(Verbs)*
 
 | toki |
@@ -300,6 +305,7 @@ A subordinating *comma* between a <sub><sup>SUBORDINATE CLAUSE</sup></sub> and *
 | *The friends ate meat.* |
 
 ### Lesson 6
+
 *(More Adjectives)*
 
 | sewi |
@@ -327,6 +333,7 @@ A subordinating *comma* between a <sub><sup>SUBORDINATE CLAUSE</sup></sub> and *
 | *Fathers use the Toki Pona book a lot.* |
 
 ### Lesson 7
+
 *(Questions and Answers)*
 
 | seme li sin? |
@@ -334,6 +341,7 @@ A subordinating *comma* between a <sub><sup>SUBORDINATE CLAUSE</sup></sub> and *
 | *what is new?* |
 
 ### Lesson 8
+
 *(Prepositions)*
 
 | lon |
@@ -345,6 +353,7 @@ A subordinating *comma* between a <sub><sup>SUBORDINATE CLAUSE</sup></sub> and *
 | *I am moving towards you.* |
 
 ### Lesson 9
+
 *(Proper Names)*
 
 | nasin |
@@ -360,6 +369,7 @@ A subordinating *comma* between a <sub><sup>SUBORDINATE CLAUSE</sup></sub> and *
 | *Mr. Sulu fights a bad guy.* |
 
 ### Lesson 10
+
 *(Greetings and Feelings)*
 
 | a | sina suli a! | a a a! | ma Kanata li jo e kala mute a! |
@@ -383,6 +393,7 @@ A subordinating *comma* between a <sub><sup>SUBORDINATE CLAUSE</sup></sub> and *
 | *Good departure!* |
 
 ### Lesson 11
+
 *(pi)*
 
 | meli lili pi sijelo pona li telo e kasi. |
@@ -398,6 +409,7 @@ A subordinating *comma* between a <sub><sup>SUBORDINATE CLAUSE</sup></sub> and *
 | *Cock-a-doodle-doo!* |
 
 ### Lesson 12
+
 *(Numbers)*
 
 | ala | wan | tu | mute | luka |
@@ -413,6 +425,7 @@ A subordinating *comma* between a <sub><sup>SUBORDINATE CLAUSE</sup></sub> and *
 | *∞*, *100* |
 
 ### Lesson 13
+
 *(Pre-Verbs)*
 
 | nasin li kama lili. |
@@ -424,6 +437,7 @@ A subordinating *comma* between a <sub><sup>SUBORDINATE CLAUSE</sup></sub> and *
 | *The woman's health improved, yay!* |
 
 ### Lesson 14
+
 *(Colours and la)*
 
 | la | lon → la |
@@ -451,6 +465,7 @@ A subordinating *comma* between a <sub><sup>SUBORDINATE CLAUSE</sup></sub> and *
 | *I feel bad because of the large battle.* |
 
 ### Lesson 15
+
 *(Spatial Nouns)*
 
 | monsi |
@@ -494,6 +509,7 @@ A subordinating *comma* between a <sub><sup>SUBORDINATE CLAUSE</sup></sub> and *
 | *I see a black lady in front of the building.* |
 
 ### Lesson 16
+
 *(Particles and Perspective)*
 
 | suwi li pona tawa mi. |
@@ -505,6 +521,7 @@ A subordinating *comma* between a <sub><sup>SUBORDINATE CLAUSE</sup></sub> and *
 | *You and I are lowly from the perspective of God.* |
 
 ### Lesson 17
+
 *(Hunting Adventure)*
 
 | mi wile e ni: |
@@ -532,6 +549,7 @@ A subordinating *comma* between a <sub><sup>SUBORDINATE CLAUSE</sup></sub> and *
 | *The moose runs away.* |
 
 ### Lesson 18
+
 *(Cooking Adventure)*
 
 | seli |
@@ -563,6 +581,7 @@ A subordinating *comma* between a <sub><sup>SUBORDINATE CLAUSE</sup></sub> and *
 | *She cooks the hares …* |;
 
 ### Lesson 19
+
 *(The Frontier)*
 
 ### [Toki Pona Proverbs](musi/sitelen-pona-musi.md#toki-pona-proverbs)
@@ -619,7 +638,7 @@ A subordinating *comma* between a <sub><sup>SUBORDINATE CLAUSE</sup></sub> and *
 
 | jan sona o kepeken sona a! |
 |:-|
-| *Meditate upon this, O people of insight!* | 
+| *Meditate upon this, O people of insight!* |
 
 #### Short Obligatory Prayer
 
@@ -689,7 +708,7 @@ A subordinating *comma* between a <sub><sup>SUBORDINATE CLAUSE</sup></sub> and *
 | | |
 | **seli** <br>[<sub><sup>ADJECTIVE</sup></sub>](#official-toki-pona-dictionary) **fire** | **seli** <br><sub><sup>NOUN</sup></sub> **fire** |
 | | |
-| **toki** <br><sub><sup>VERB</sup></sub> **to communicate**, **say**, **speak**, [**say**, **talk**, **use language,**](#official-toki-pona-dictionary) **think** | **toki** <br><sub><sup>VERB</sup></sub> **to communicate**, **say**, **speak**; **think** <br><sub><sup>ADJECTIVE</sup></sub> **talking**, **using language** | 
+| **toki** <br><sub><sup>VERB</sup></sub> **to communicate**, **say**, **speak**, [**say**, **talk**, **use language,**](#official-toki-pona-dictionary) **think** | **toki** <br><sub><sup>VERB</sup></sub> **to communicate**, **say**, **speak**; **think** <br><sub><sup>ADJECTIVE</sup></sub> **talking**, **using language** |
 | | |
 | **poka** <br><sub><sup>NOUN</sup></sub> **hip**, **side**; **next to**, [**nearby**](#official-toki-pona-dictionary), **vicinity** | **poka** <br><sub><sup>NOUN</sup></sub> **hip**, **side**; **next to**, **vicinity** <br><sub><sup>ADJECTIVE</sup></sub> **nearby** |
 | | |

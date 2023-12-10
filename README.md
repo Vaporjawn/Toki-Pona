@@ -1,6 +1,6 @@
 # Toki Pona
 
-This creative work by Stephan Schneider is based on [the official Toki Pona book](http://www.amazon.com/gp/product/0978292308) and website: [http://tokipona.org](http://tokipona.org)
+Based on [Toki Pona](https://github.com/stefichjo/toki-pona) which is based on [the official Toki Pona book](http://www.amazon.com/gp/product/0978292308) and website: [http://tokipona.org](http://tokipona.org)
 
 * [Dictionary](nimi-ale.md) — meanings and conversions
 * [The Frontier](nasin-ale.md) — nasins and pona-ness
