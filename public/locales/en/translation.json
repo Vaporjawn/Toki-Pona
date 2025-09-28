@@ -1,0 +1,208 @@
+{
+  "nav": {
+    "home": "Home",
+    "lessons": "Lessons",
+    "dictionary": "Dictionary",
+    "translator": "Translator",
+    "practice": "Practice",
+    "analytics": "Analytics",
+    "achievements": "Achievements",
+    "settings": "Settings",
+    "about": "About"
+  },
+  "theme": {
+    "switchToLight": "Switch to light mode",
+    "switchToDark": "Switch to dark mode"
+  },
+  "pages": {
+    "home": {
+      "title": "Learn toki pona",
+      "subtitle": "The minimalist constructed language with just 120-137 words",
+      "getStarted": "Get Started",
+      "features": {
+        "simple": {
+          "title": "Simple & Minimal",
+          "description": "Only 120-137 words in the entire language"
+        },
+        "expressive": {
+          "title": "Expressive",
+          "description": "Despite its simplicity, toki pona is surprisingly expressive"
+        },
+        "philosophical": {
+          "title": "Philosophical",
+          "description": "Learn to think differently about communication and meaning"
+        }
+      }
+    },
+    "lessons": {
+      "title": "Lessons",
+      "subtitle": "Learn toki pona step by step"
+    },
+    "dictionary": {
+      "title": "Dictionary",
+      "subtitle": "Browse all toki pona words"
+    },
+    "practice": {
+      "title": "Practice",
+      "subtitle": "Test your knowledge"
+    },
+    "about": {
+      "title": "About",
+      "subtitle": "Learn more about this project"
+    },
+    "settings": {
+      "title": "Settings",
+      "subtitle": "Customize your learning experience"
+    },
+    "analytics": {
+      "title": "Analytics",
+      "subtitle": "Track your learning progress"
+    }
+  },
+  "settings": {
+    "title": "Settings",
+    "theme_language": "Theme & Language",
+    "theme": "Theme",
+    "dark_mode": "Dark Mode",
+    "light_mode": "Light Mode",
+    "language": "Interface Language",
+    "audio": "Audio & Pronunciation",
+    "speech_features": "Speech Features",
+    "speech_recognition": "Enable Speech Recognition",
+    "text_to_speech": "Enable Text-to-Speech",
+    "pronunciation_feedback": "Pronunciation Feedback",
+    "speech_parameters": "Speech Parameters",
+    "speech_rate": "Speech Rate",
+    "speech_pitch": "Speech Pitch",
+    "confidence_threshold": "Recognition Confidence Threshold",
+    "practice": "Practice & Learning",
+    "default_difficulty": "Default Difficulty",
+    "difficulty_easy": "Easy",
+    "difficulty_medium": "Medium",
+    "difficulty_hard": "Hard",
+    "practice_options": "Practice Options",
+    "enable_time_limit": "Enable Time Limit",
+    "show_hints": "Show Hints",
+    "auto_advance": "Auto-advance After Correct Answer",
+    "random_order": "Random Question Order",
+    "time_limit_seconds": "Time Limit (seconds)",
+    "daily_xp_goal": "Daily XP Goal",
+    "interface": "Interface & Experience",
+    "compact_mode": "Compact Mode",
+    "show_progress_bars": "Show Progress Bars",
+    "animations": "Enable Animations",
+    "sound_effects": "Sound Effects",
+    "notifications": "Practice Reminders",
+    "haptic_feedback": "Haptic Feedback (Mobile)",
+    "data_backup": "Data & Backup",
+    "data_options": "Data Options",
+    "auto_save": "Auto-save Progress",
+    "anonymous_analytics": "Anonymous Analytics",
+    "crash_reporting": "Crash Reporting",
+    "progress_overview": "Progress Overview",
+    "lessons_completed": "Lessons",
+    "words_learned": "Words Learned",
+    "current_streak": "Current Streak",
+    "total_xp": "Total XP",
+    "backup_restore": "Backup & Restore",
+    "export_data": "Export Data",
+    "import_data": "Import Data",
+    "reset_progress": "Reset Progress",
+    "export_success": "Data exported successfully!",
+    "import_success": "Data imported successfully!",
+    "confirm_reset": "Are you sure you want to reset all progress? This cannot be undone."
+  },
+  "achievements": {
+    "title": "Achievements",
+    "overview": "Achievement Overview",
+    "progress": "Progress",
+    "requirement": "Requirement",
+    "unlocked": "Unlocked",
+    "locked": "Locked",
+    "share": "Share Achievement",
+    "export": "Export Achievements",
+    "exportAll": "Export All Achievements",
+    "categories": {
+      "all": "All",
+      "practice": "Practice",
+      "vocabulary": "Vocabulary",
+      "streak": "Streak",
+      "speed": "Speed",
+      "mastery": "Mastery",
+      "exploration": "Exploration"
+    },
+    "rarity": {
+      "common": "Common",
+      "uncommon": "Uncommon",
+      "rare": "Rare",
+      "epic": "Epic",
+      "legendary": "Legendary"
+    },
+    "completionStats": {
+      "total": "Total Achievements",
+      "unlocked": "Unlocked",
+      "completion": "Completion Rate"
+    },
+    "names": {
+      "first_steps": "First Steps",
+      "getting_started": "Getting Started",
+      "dedicated_learner": "Dedicated Learner",
+      "practice_warrior": "Practice Warrior",
+      "word_discoverer": "Word Discoverer",
+      "vocabulary_builder": "Vocabulary Builder",
+      "word_master": "Word Master",
+      "linguist": "Linguist",
+      "day_streak": "Day Streak",
+      "week_warrior": "Week Warrior",
+      "month_master": "Month Master",
+      "consistent_learner": "Consistent Learner",
+      "speed_demon": "Speed Demon",
+      "lightning_fast": "Lightning Fast",
+      "sonic_learner": "Sonic Learner",
+      "flash_master": "Flash Master",
+      "lesson_completion": "Lesson Completion",
+      "halfway_hero": "Halfway Hero",
+      "lesson_master": "Lesson Master",
+      "explorer": "Explorer",
+      "dictionary_browser": "Dictionary Browser",
+      "completionist": "Completionist"
+    },
+    "descriptions": {
+      "first_steps": "Complete your first practice session",
+      "getting_started": "Complete 5 practice sessions",
+      "dedicated_learner": "Complete 25 practice sessions",
+      "practice_warrior": "Complete 100 practice sessions",
+      "word_discoverer": "Learn 10 new words",
+      "vocabulary_builder": "Learn 50 new words",
+      "word_master": "Learn 100 new words",
+      "linguist": "Learn all toki pona words",
+      "day_streak": "Maintain a 3-day learning streak",
+      "week_warrior": "Maintain a 7-day learning streak",
+      "month_master": "Maintain a 30-day learning streak",
+      "consistent_learner": "Maintain a 100-day learning streak",
+      "speed_demon": "Complete a practice session in under 30 seconds",
+      "lightning_fast": "Complete a practice session in under 15 seconds",
+      "sonic_learner": "Complete a practice session in under 10 seconds",
+      "flash_master": "Complete a practice session in under 5 seconds",
+      "lesson_completion": "Complete 10 lessons",
+      "halfway_hero": "Complete 50% of all lessons",
+      "lesson_master": "Complete all lessons",
+      "explorer": "Use the dictionary feature",
+      "dictionary_browser": "Look up 50 words in the dictionary",
+      "completionist": "Unlock all other achievements"
+    },
+    "requirements": {
+      "practice_sessions": "Complete {{value}} practice sessions",
+      "words_learned": "Learn {{value}} words",
+      "streak_days": "Maintain {{value}} day streak",
+      "speed_seconds": "Complete practice in {{value}} seconds",
+      "lessons_completed": "Complete {{value}} lessons",
+      "lessons_percentage": "Complete {{value}}% of lessons",
+      "dictionary_lookups": "Look up {{value}} words",
+      "all_words": "Learn all toki pona words",
+      "all_lessons": "Complete all lessons",
+      "dictionary_use": "Use the dictionary feature",
+      "all_achievements": "Unlock all other achievements"
+    }
+  }
+}
