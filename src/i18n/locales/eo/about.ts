@@ -1,0 +1,26 @@
+import type { AboutTranslations } from '../en/about';
+
+export const about: AboutTranslations = {
+  whatIsTokiPona: 'Kio estas Tokipono?',
+  description1: 'Tokipono estas filozofia arta konstruita lingvo konata pro sia malgranda vortaro. Ĝi estis kreita de la kanada lingvisto Sonja Lang (antaŭe Sonja Kisa) en 2001.',
+  description2: 'La lingvo havas nur 120-137 vortojn (depende de la kalkulado), igante ĝin unu el la plej malgrandaj lingvoj en la mondo. Malgraŭ sia eta vortaro, parolantoj povas esprimi kompleksajn ideojn kombinante simplajn konceptojn.',
+  description3: 'La nomo "toki pona" signifas "simpla lingvo" aŭ "bona lingvo" en la lingvo mem.',
+  philosophy: 'Filozofio',
+  philosophyDescription1: 'La filozofio de tokipono estas minimalismo. La lingvo kuraĝigas parolantojn malkomponi kompleksajn pensojn en fundamentajn konceptojn, antaŭenigante atentemon kaj simplecon en komunikado.',
+  philosophyDescription2: 'Devigante parolantojn pensi per pli simplaj terminoj, tokipono povas helpi klarigi pensojn kaj redukti ambiguecon. Ĝi ofte estas priskribita kiel "lingva meditado".',
+  aboutPlatform: 'Pri Ĉi Tiu Lerna Platformo',
+  platformDescription: 'Ĉi tiu interaktiva lerna platformo estas dizajnita por igi lernadon de tokipono amuza kaj engaĝa. Uzante modernajn retteknologiojn kaj ludifikajn principojn, ni kreis sperton similan al popularaj lingvolernaj aplikaĵoj kiel Duolingo.',
+  featuresTitle: 'Funkcioj inkluzivas:',
+  feature1: 'Interaktivaj lecionoj kun tuja retroinformo',
+  feature2: 'Progresa sekado kun XP kaj atingoj',
+  feature3: 'Kompleta vortaro kun sitelen pona skribsistemo',
+  feature4: 'Multaj ekzercotipoj por plifortigi lernadon',
+  feature5: 'Plurlingva interfaca subteno',
+  sitelenPona: 'sitelen pona',
+  sitelenPonaDescription1: 'Sitelen pona estas la denaske skribsistemo de tokipono, kreita de Sonja Lang. Ĝi uzas simplajn logografajn simbolojn kie ĉiu simbolo reprezentas vortan koncepton.',
+  sitelenPonaDescription2: 'Ĉi tiu skribsistemo pliprofundigas la minimalisman filozofion de la lingvo, uzante bazajn geometriajn formojn kiuj estas facilaj lerni kaj desegni.',
+  credits: 'Agnoskoj',
+  tokiPonaCreator: 'Tokipono estis kreita de Sonja Lang',
+  platformTech: 'Ĉi tiu lerna platformo estis konstruita kun React, TypeScript kaj Material-UI',
+  learnMore: 'Lernu pli ĉe',
+};

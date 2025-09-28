@@ -1,0 +1,26 @@
+import type { AboutTranslations } from '../en/about';
+
+export const about: AboutTranslations = {
+  whatIsTokiPona: '¿Qué es Toki Pona?',
+  description1: 'Toki Pona es un lenguaje construido artístico filosófico conocido por su pequeño vocabulario. Fue creado por la lingüista canadiense Sonja Lang (anteriormente Sonja Kisa) en 2001.',
+  description2: 'El lenguaje tiene solo 120-137 palabras (dependiendo del conteo), convirtiéndolo en uno de los lenguajes más pequeños del mundo. A pesar de su vocabulario diminuto, los hablantes pueden expresar ideas complejas combinando conceptos simples.',
+  description3: 'El nombre "toki pona" significa "lenguaje simple" o "lenguaje bueno" en el idioma mismo.',
+  philosophy: 'Filosofía',
+  philosophyDescription1: 'La filosofía de Toki Pona es el minimalismo. El lenguaje anima a los hablantes a descomponer pensamientos complejos en conceptos fundamentales, promoviendo la atención plena y la simplicidad en la comunicación.',
+  philosophyDescription2: 'Al forzar a los hablantes a pensar en términos más simples, Toki Pona puede ayudar a aclarar pensamientos y reducir la ambigüedad. A menudo se describe como una "meditación lingüística".',
+  aboutPlatform: 'Acerca de Esta Plataforma de Aprendizaje',
+  platformDescription: 'Esta plataforma de aprendizaje interactiva está diseñada para hacer que aprender Toki Pona sea divertido y atractivo. Usando tecnologías web modernas y principios de gamificación, hemos creado una experiencia similar a aplicaciones populares de aprendizaje de idiomas como Duolingo.',
+  featuresTitle: 'Las características incluyen:',
+  feature1: 'Lecciones interactivas con retroalimentación inmediata',
+  feature2: 'Seguimiento del progreso con XP y logros',
+  feature3: 'Diccionario completo con escritura sitelen pona',
+  feature4: 'Múltiples tipos de ejercicios para reforzar el aprendizaje',
+  feature5: 'Soporte de interfaz multiidioma',
+  sitelenPona: 'sitelen pona',
+  sitelenPonaDescription1: 'Sitelen pona es el sistema de escritura nativo de Toki Pona, creado por Sonja Lang. Usa símbolos logográficos simples donde cada símbolo representa un concepto de palabra.',
+  sitelenPonaDescription2: 'Este sistema de escritura refuerza la filosofía minimalista del lenguaje, usando formas geométricas básicas que son fáciles de aprender y dibujar.',
+  credits: 'Créditos',
+  tokiPonaCreator: 'Toki Pona fue creado por Sonja Lang',
+  platformTech: 'Esta plataforma de aprendizaje fue construida con React, TypeScript y Material-UI',
+  learnMore: 'Aprende más en',
+};

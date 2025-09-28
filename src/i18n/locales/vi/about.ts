@@ -1,0 +1,26 @@
+import type { AboutTranslations } from '../en/about';
+
+export const about: AboutTranslations = {
+  whatIsTokiPona: 'Toki Pona là gì?',
+  description1: 'Toki Pona là một ngôn ngữ nhân tạo nghệ thuật-triết học được biết đến với từ vựng nhỏ. Nó được tạo ra bởi nhà ngôn ngữ học Canada Sonja Lang (trước đây là Sonja Kisa) vào năm 2001.',
+  description2: 'Ngôn ngữ chỉ có 120-137 từ (tùy thuộc vào cách đếm), làm cho nó trở thành một trong những ngôn ngữ nhỏ nhất thế giới. Mặc dù từ vựng hạn chế, người sử dụng có thể biểu đạt ý tưởng phức tạp bằng cách kết hợp các khái niệm đơn giản.',
+  description3: 'Tên "toki pona" có nghĩa là "ngôn ngữ đơn giản" hoặc "ngôn ngữ tốt" trong chính ngôn ngữ đó.',
+  philosophy: 'Triết Lý',
+  philosophyDescription1: 'Triết lý của Toki Pona là chủ nghĩa tối giản. Ngôn ngữ khuyến khích người dùng chia nhỏ những suy nghĩ phức tạp thành các khái niệm cơ bản, thúc đẩy sự nhận thức và đơn giản trong giao tiếp.',
+  philosophyDescription2: 'Bằng cách buộc người dùng phải suy nghĩ theo những thuật ngữ đơn giản hơn, Toki Pona có thể giúp làm rõ suy nghĩ và giảm bớt sự mơ hồ. Nó thường được mô tả là "thiền định ngôn ngữ".',
+  aboutPlatform: 'Về nền tảng học tập này',
+  platformDescription: 'Nền tảng học tập tương tác này được thiết kế để làm cho việc học Toki Pona trở nên thú vị và hấp dẫn. Sử dụng công nghệ web hiện đại và nguyên lý gamification, chúng tôi đã tạo ra một trải nghiệm tương tự như các ứng dụng học ngôn ngữ phổ biến như Duolingo.',
+  featuresTitle: 'Các tính năng bao gồm:',
+  feature1: 'Bài học tương tác với phản hồi tức thì',
+  feature2: 'Theo dõi tiến độ với XP và thành tích',
+  feature3: 'Từ điển hoàn chỉnh với chữ viết sitelen pona',
+  feature4: 'Nhiều loại bài tập để củng cố việc học',
+  feature5: 'Hỗ trợ giao diện đa ngôn ngữ',
+  sitelenPona: 'sitelen pona',
+  sitelenPonaDescription1: 'Sitelen pona là hệ thống chữ viết bản địa của Toki Pona, được tạo ra bởi Sonja Lang. Nó sử dụng các ký hiệu logographic đơn giản, trong đó mỗi ký hiệu đại diện cho một khái niệm từ.',
+  sitelenPonaDescription2: 'Hệ thống chữ viết này củng cố triết lý tối giản của ngôn ngữ, sử dụng các hình dạng hình học cơ bản dễ học và dễ vẽ.',
+  credits: 'Ghi Nhận',
+  tokiPonaCreator: 'Toki Pona được tạo ra bởi Sonja Lang',
+  platformTech: 'Nền tảng học tập này được xây dựng với React, TypeScript và Material-UI',
+  learnMore: 'Tìm hiểu thêm về',
+};

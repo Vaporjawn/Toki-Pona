@@ -1,0 +1,26 @@
+import type { AboutTranslations } from '../en/about';
+
+export const about: AboutTranslations = {
+  whatIsTokiPona: 'トキポナとは何ですか？',
+  description1: 'トキポナは小さな語彙で知られる哲学的芸術的人工言語です。2001年にカナダの言語学者ソニア・ラング（旧姓ソニア・キサ）によって作成されました。',
+  description2: 'この言語にはわずか120-137語（数え方によって）しかなく、世界最小の言語の一つです。小さな語彙にもかかわらず、話者は単純な概念を組み合わせることで複雑なアイデアを表現できます。',
+  description3: '"toki pona"という名前は、言語自体で「シンプルな言語」または「良い言語」を意味します。',
+  philosophy: '哲学',
+  philosophyDescription1: 'トキポナの哲学はミニマリズムです。この言語は話者に複雑な思考を基本的な概念に分解することを促し、コミュニケーションにおけるマインドフルネスとシンプルさを推進します。',
+  philosophyDescription2: '話者により単純な言葉で考えることを強制することで、トキポナは思考を明確にし、曖昧さを減らすのに役立ちます。しばしば「言語的瞑想」と称されます。',
+  aboutPlatform: 'この学習プラットフォームについて',
+  platformDescription: 'このインタラクティブ学習プラットフォームは、トキポナの学習を楽しく魅力的にするために設計されています。現代のウェブ技術とゲーミフィケーション原則を使用して、Duolingoなどの人気言語学習アプリに似た体験を作成しました。',
+  featuresTitle: '機能には以下が含まれます：',
+  feature1: '即座のフィードバックを伴うインタラクティブレッスン',
+  feature2: 'XPと達成による進捗追跡',
+  feature3: 'sitelen pona文字を含む包括的辞書',
+  feature4: '学習を強化する複数の演習タイプ',
+  feature5: '多言語インターフェースサポート',
+  sitelenPona: 'sitelen pona',
+  sitelenPonaDescription1: 'sitelen ponaはソニア・ラングによって作成されたトキポナのネイティブ書字体系です。各シンボルが語彙概念を表すシンプルな表意文字を使用します。',
+  sitelenPonaDescription2: 'この書字体系は言語のミニマリスト哲学を強化し、学習と描画が容易な基本的な幾何学形状を使用します。',
+  credits: 'クレジット',
+  tokiPonaCreator: 'トキポナはソニア・ラングによって作成されました',
+  platformTech: 'この学習プラットフォームはReact、TypeScript、Material-UIで構築されました',
+  learnMore: '詳細はこちら',
+};

@@ -1,0 +1,26 @@
+import type { AboutTranslations } from '../en/about';
+
+export const about: AboutTranslations = {
+  whatIsTokiPona: 'Toki Pona nedir?',
+  description1: 'Toki Pona, küçük kelime hazinesiyle bilinen sanatsal-felsefi bir yapay dildir. Kanadalı dilbilimci Sonja Lang (eski adıyla Sonja Kisa) tarafından 2001 yılında yaratılmıştır.',
+  description2: 'Dil sadece 120-137 kelimeye sahiptir (sayma yöntemine bağlı olarak), bu da onu dünyanın en küçük dillerinden biri yapar. Sınırlı kelime haznesine rağmen, kullanıcılar basit kavramları birleştirerek karmaşık fikirleri ifade edebilirler.',
+  description3: '"toki pona" adı dilin kendi içinde "basit dil" veya "iyi dil" anlamına gelir.',
+  philosophy: 'Felsefe',
+  philosophyDescription1: 'Toki Ponanın felsefesi minimalizimdir. Dil, kullanıcıları karmaşık düşünceleri temel kavramlara ayırmaya teşvik ederek, iletişimde farkındalığı ve sadeliği destekler.',
+  philosophyDescription2: 'Kullanıcıları daha basit terimlerle düşünmeye zorlayarak, Toki Pona düşünceleri netleştirmeye ve belirsizliği azaltmaya yardımcı olabilir. Sıklıkla "dilsel meditasyon" olarak tanımlanır.',
+  aboutPlatform: 'Bu öğrenme platformu hakkında',
+  platformDescription: 'Bu etkileşimli öğrenme platformu, Toki Pona öğrenmeyi eğlenceli ve ilgi çekici hale getirmek için tasarlanmıştır. Modern web teknolojileri ve oyunlaştırma ilkelerini kullanarak, Duolingo gibi popüler dil öğrenme uygulamalarına benzer bir deneyim yarattık.',
+  featuresTitle: 'Özellikler şunları içerir:',
+  feature1: 'Anında geri bildirimle etkileşimli dersler',
+  feature2: 'XP ve başarılarla ilerleme takibi',
+  feature3: 'Sitelen pona yazısıyla eksiksiz sözlük',
+  feature4: 'Öğrenmeyi pekiştiren çeşitli alıştırma türleri',
+  feature5: 'Çok dilli arayüz desteği',
+  sitelenPona: 'sitelen pona',
+  sitelenPonaDescription1: 'Sitelen pona, Sonja Lang tarafından yaratılan Toki Ponanın yerel yazı sistemidir. Her sembolün bir kelime kavramını temsil ettiği basit logografik semboller kullanır.',
+  sitelenPonaDescription2: 'Bu yazı sistemi, öğrenmesi ve çizmesi kolay olan temel geometrik şekilleri kullanarak dilin minimalist felsefesini güçlendirir.',
+  credits: 'Katkıda Bulunanlar',
+  tokiPonaCreator: 'Toki Pona, Sonja Lang tarafından yaratılmıştır',
+  platformTech: 'Bu öğrenme platformu React, TypeScript ve Material-UI ile geliştirilmiştir',
+  learnMore: 'hakkında daha fazla öğrenin',
+};

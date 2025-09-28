@@ -1,0 +1,26 @@
+import type { AboutTranslations } from '../en/about';
+
+export const about: AboutTranslations = {
+  whatIsTokiPona: '토키 포나란 무엇인가요?',
+  description1: '토키 포나는 작은 어휘로 유명한 철학적 예술적 인공언어입니다. 2001년 캐나다 언어학자 소냐 랑(이전 이름 소냐 키사)에 의해 만들어졌습니다.',
+  description2: '이 언어는 단 120-137개의 단어(계산 방법에 따라)만을 가지고 있어 세계에서 가장 작은 언어 중 하나입니다. 작은 어휘에도 불구하고 화자들은 간단한 개념을 조합하여 복잡한 아이디어를 표현할 수 있습니다.',
+  description3: '"toki pona"라는 이름은 언어 자체에서 "간단한 언어" 또는 "좋은 언어"를 의미합니다.',
+  philosophy: '철학',
+  philosophyDescription1: '토키 포나의 철학은 미니멀리즘입니다. 이 언어는 화자들이 복잡한 생각을 기본 개념으로 분해하도록 격려하여 의사소통에서 마음챙김과 단순함을 촉진합니다.',
+  philosophyDescription2: '화자들에게 더 간단한 용어로 생각하도록 강요함으로써, 토키 포나는 생각을 명확히 하고 모호함을 줄이는 데 도움이 될 수 있습니다. 종종 "언어적 명상"이라고 묘사됩니다.',
+  aboutPlatform: '이 학습 플랫폼에 대해',
+  platformDescription: '이 인터랙티브 학습 플랫폼은 토키 포나 학습을 재미있고 매력적으로 만들기 위해 설계되었습니다. 현대 웹 기술과 게이미피케이션 원칙을 사용하여 듀오링고와 같은 인기 언어 학습 앱과 유사한 경험을 만들었습니다.',
+  featuresTitle: '기능에는 다음이 포함됩니다:',
+  feature1: '즉각적인 피드백이 있는 인터랙티브 레슨',
+  feature2: 'XP와 성취로 진도 추적',
+  feature3: 'sitelen pona 문자가 포함된 포괄적 사전',
+  feature4: '학습을 강화하는 여러 연습 유형',
+  feature5: '다국어 인터페이스 지원',
+  sitelenPona: 'sitelen pona',
+  sitelenPonaDescription1: 'sitelen pona는 소냐 랑이 만든 토키 포나의 고유 문자 체계입니다. 각 기호가 단어 개념을 나타내는 간단한 표의문자를 사용합니다.',
+  sitelenPonaDescription2: '이 문자 체계는 언어의 미니멀리스트 철학을 강화하며, 배우기 쉽고 그리기 쉬운 기본 기하학적 모양을 사용합니다.',
+  credits: '크레딧',
+  tokiPonaCreator: '토키 포나는 소냐 랑이 만들었습니다',
+  platformTech: '이 학습 플랫폼은 React, TypeScript, Material-UI로 구축되었습니다',
+  learnMore: '자세히 알아보기',
+};

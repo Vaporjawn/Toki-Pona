@@ -1,0 +1,26 @@
+import type { AboutTranslations } from '../en/about';
+
+export const about: AboutTranslations = {
+  whatIsTokiPona: 'Me ne Toki Pona?',
+  description1: 'Toki Pona harshen da\'an adam ne na fasaha-falsafa wanda aka san da ƙarancin kalmomin. Sonja Lang (tsohuwar Sonja Kisa) \'yar Kanada masanin harsuna ta kirkira shi a shekarar 2001.',
+  description2: 'Harshen yana da kalmomi 120-137 kawai (dangane da yadda ake ƙidaya), wannan ya sa ya zama ɗaya daga cikin ƙananan harsuna a duniya. Duk da ƙarancin kalmomi, masu amfani za su iya bayyana ra\'ayoyi masu rikitarwa ta hanyar haɗa ra\'ayoyi masu sauki.',
+  description3: 'Sunan "toki pona" yana nufin "harshe mai sauki" ko "kyakkyawan harshe" a cikin harshen kansa.',
+  philosophy: 'Falsafa',
+  philosophyDescription1: 'Falsafar Toki Pona ita ce sauki. Harshen yana ƙarfafa masu amfani su raba tunanin da ke da rikitarwa zuwa ra\'ayoyi na asali, yana tallafawa wayewar kai da sauki wajen sadarwa.',
+  philosophyDescription2: 'Ta hanyar tilasta wa masu amfani su yi tunani cikin kalmomi masu sauki, Toki Pona na iya taimakawa wajen bayyana tunani da rage rudani. Ana yawan kwatanta shi da "bimbini na harshe".',
+  aboutPlatform: 'Game da wannan dandalin koyo',
+  platformDescription: 'An tsara wannan dandalin koyo mai hulɗa don sanya koyon Toki Pona ya zama abin farin ciki da jan hankali. Ta amfani da sabbin fasahohin yanar gizo da ka\'idojin wasa, mun samar da gogayya kamar manyan \'yan aikace-aikacen koyon harshe kamar Duolingo.',
+  featuresTitle: 'Abubuwan da ke ciki sun haɗa da:',
+  feature1: 'Darussa masu hulɗa tare da martani nan take',
+  feature2: 'Bin diddigin ci gaba da XP da nasarori',
+  feature3: 'Cikakken kamus tare da rubutun sitelen pona',
+  feature4: 'Nau\'ukan ayyukan horarwa daban-daban don ƙarfafawa',
+  feature5: 'Goyan bayan harsuna da yawa a cikin tsarin',
+  sitelenPona: 'sitelen pona',
+  sitelenPonaDescription1: 'Sitelen pona tsarin rubutu ne na asali na Toki Pona, wanda Sonja Lang ta kirkira. Yana amfani da alamomi masu sauki na logographic, inda kowane alama ke wakiltar ra\'ayin kalma.',
+  sitelenPonaDescription2: 'Wannan tsarin rubutu yana ƙarfafa falsafar sauki ta harshen, yana amfani da siffofi na asali na lissafi waɗanda ke da sauki don koyo da zane.',
+  credits: 'Yabawa',
+  tokiPonaCreator: 'Sonja Lang ta kirkiri Toki Pona',
+  platformTech: 'An gina wannan dandalin koyo da React, TypeScript, da Material-UI',
+  learnMore: 'Koyi ƙarin game da',
+};

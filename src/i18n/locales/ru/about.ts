@@ -1,0 +1,26 @@
+import type { AboutTranslations } from '../en/about';
+
+export const about: AboutTranslations = {
+  whatIsTokiPona: 'Что такое Toki Pona?',
+  description1: 'Toki Pona — философский художественный искусственный язык с маленьким словарём. Создан канадской лингвисткой Соней Ланг в 2001 году.',
+  description2: 'В языке всего 120–137 слов (в зависимости от подсчёта). Несмотря на это, можно выражать сложные идеи, комбинируя простые понятия.',
+  description3: 'Название «toki pona» означает «простой / хороший язык».',
+  philosophy: 'Философия',
+  philosophyDescription1: 'Философия Toki Pona — минимализм: разбивайте сложное на базовое, развивая осознанность и простоту речи.',
+  philosophyDescription2: 'Упрощая выражение мыслей, язык помогает прояснять идеи и уменьшать двусмысленность — своего рода «лингвистическая медитация».',
+  aboutPlatform: 'Об этой платформе',
+  platformDescription: 'Интерактивная платформа делает обучение Toki Pona увлекательным: современный стек и геймификация — опыт, похожий на популярные приложения.',
+  featuresTitle: 'Функции:',
+  feature1: 'Интерактивные уроки с мгновенной обратной связью',
+  feature2: 'Отслеживание прогресса с XP и достижениями',
+  feature3: 'Полный словарь с письмом sitelen pona',
+  feature4: 'Разнообразные упражнения для закрепления',
+  feature5: 'Интерфейс на нескольких языках',
+  sitelenPona: 'sitelen pona',
+  sitelenPonaDescription1: 'sitelen pona — родная письменность Toki Pona: простые логограммы для понятий.',
+  sitelenPonaDescription2: 'Она отражает минимализм языка и легко осваивается.',
+  credits: 'Благодарности',
+  tokiPonaCreator: 'Toki Pona создана Соней Ланг',
+  platformTech: 'Платформа построена на React, TypeScript и Material-UI',
+  learnMore: 'Узнайте больше на',
+};

@@ -1,0 +1,26 @@
+import type { AboutTranslations } from '../en/about';
+
+export const about: AboutTranslations = {
+  whatIsTokiPona: 'Ano ang Toki Pona?',
+  description1: 'Ang Toki Pona ay isang philosophical artistic constructed language na kilala sa maliit na vocabulary. Ito ay nilikha ng Canadian linguist na si Sonja Lang (dating Sonja Kisa) noong 2001.',
+  description2: 'Ang wika ay may 120-137 salita lamang (depende sa inyong pagbibilang), na nagiging isa sa mga pinakamaliit na wika sa mundo. Sa kabila ng maliit na vocabulary, maaaring magpahayag ang mga nagsasalita ng mga komplikadong ideya sa pamamagitan ng pagsasama ng mga simpleng konsepto.',
+  description3: 'Ang pangalang "toki pona" ay nangangahulugang "simpleng wika" o "mabuting wika" sa wikang ito mismo.',
+  philosophy: 'Pilosopiya',
+  philosophyDescription1: 'Ang pilosopiya ng Toki Pona ay minimalism. Hinihikayat ng wika ang mga nagsasalita na hatiin ang mga komplikadong pag-iisip sa mga pangunahing konsepto, na nagpo-promote ng mindfulness at simplicity sa komunikasyon.',
+  philosophyDescription2: 'Sa pamamagitan ng pag-force sa mga nagsasalita na mag-isip sa mas simpleng paraan, makakatulong ang Toki Pona na maging malinaw ang mga pag-iisip at mabawasan ang ambiguity. Madalas itong inilalarawan bilang isang "linguistic meditation."',
+  aboutPlatform: 'Tungkol sa Learning Platform na Ito',
+  platformDescription: 'Ang interactive learning platform na ito ay dinisenyo para gawing masaya at engaging ang pag-aaral ng Toki Pona. Gamit ang modern web technologies at gamification principles, nakagawa kami ng experience na katulad ng mga sikat na language learning app tulad ng Duolingo.',
+  featuresTitle: 'Kasama ang mga feature:',
+  feature1: 'Interactive na mga aralin na may immediate feedback',
+  feature2: 'Progress tracking na may XP at mga achievement',
+  feature3: 'Comprehensive dictionary na may sitelen pona script',
+  feature4: 'Maraming uri ng exercise para sa reinforcement ng pag-aaral',
+  feature5: 'Multi-language interface support',
+  sitelenPona: 'sitelen pona',
+  sitelenPonaDescription1: 'Ang sitelen pona ay ang native writing system ng Toki Pona, na nilikha ni Sonja Lang. Gumagamit ito ng mga simpleng logographic symbol kung saan ang bawat symbol ay nagrerepresenta ng word concept.',
+  sitelenPonaDescription2: 'Ang writing system na ito ay nag-reinforce ng minimalist philosophy ng wika, na gumagamit ng basic geometric shapes na madaling matugunan at iguhit.',
+  credits: 'Mga Credit',
+  tokiPonaCreator: 'Ang Toki Pona ay nilikha ni Sonja Lang',
+  platformTech: 'Ang learning platform na ito ay ginawa gamit ang React, TypeScript, at Material-UI',
+  learnMore: 'Matuto pa sa',
+};
