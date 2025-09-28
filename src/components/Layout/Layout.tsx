@@ -22,8 +22,8 @@ import {
   Translate as TranslateIcon,
 } from '@mui/icons-material';
 import { Link, useLocation } from 'react-router-dom';
-import { useTheme } from '../hooks/useTheme';
-import LanguageSelector from './LanguageSelector';
+import { useTheme } from '../../hooks';
+import LanguageSelector from '../LanguageSelector';
 
 interface LayoutProps {
   children: React.ReactNode;
