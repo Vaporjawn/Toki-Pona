@@ -1,42 +1,65 @@
-# React + TypeScript + Vite
+# Toki Pona Trainer 🌱
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A comprehensive, multilingual web application for learning Toki Pona - the minimalist constructed language with only 137 words. Built with React, TypeScript, and Material-UI, featuring an intuitive interface, interactive lessons, practice exercises, and a complete dictionary.
 
-Currently, two official plugins are available:
+## ✨ Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- 📚 **Interactive Lessons**: Step-by-step learning modules covering Toki Pona grammar, vocabulary, and usage
+- 📖 **Comprehensive Dictionary**: Full dictionary with definitions, examples, and usage notes for all official words
+- 🎯 **Practice Exercises**: Various exercise types including flashcards, translation practice, and comprehension tests
+- 📊 **Progress Analytics**: Track your learning progress with detailed statistics and achievement system
+- 🌍 **Multilingual Interface**: Available in 10+ languages with full RTL support for Arabic
+- 🎨 **Modern UI**: Clean, responsive design with dark/light theme support
+- 🔄 **Translator Tool**: Bidirectional translation between Toki Pona and supported languages
+- 🏆 **Achievement System**: Unlock badges and track milestones as you progress
+- 📱 **Mobile Responsive**: Optimized for desktop, tablet, and mobile devices
 
-## Expanding the ESLint configuration
+## 🚀 Quick Start
 
-If you are developing a production application, we recommend updating the configuration to enable type-aware lint rules:
+```bash
+# Clone the repository
+git clone https://github.com/Vaporjawn/Toki-Pona.git
+cd Toki-Pona
 
-```js
-export default defineConfig([
-  globalIgnores(['dist']),
-  {
-    files: ['**/*.{ts,tsx}'],
-    extends: [
-      // Other configs...
+# Install dependencies
+npm install
 
-      // Remove tseslint.configs.recommended and replace with this
-      tseslint.configs.recommendedTypeChecked,
-      // Alternatively, use this for stricter rules
-      tseslint.configs.strictTypeChecked,
-      // Optionally, add this for stylistic rules
-      tseslint.configs.stylisticTypeChecked,
+# Start development server
+npm start
 
-      // Other configs...
-    ],
-    languageOptions: {
-      parserOptions: {
-        project: ['./tsconfig.node.json', './tsconfig.app.json'],
-        tsconfigRootDir: import.meta.dirname,
-      },
-      // other options...
-    },
-  },
-])
+# Build for production
+npm run build
+
+# Run tests
+npm test
+```
+
+## 🛠️ Tech Stack
+
+- **Frontend**: React 19, TypeScript, Material-UI
+- **Routing**: React Router DOM
+- **Internationalization**: i18next, react-i18next
+- **Build Tool**: Vite
+- **Testing**: Vitest
+- **Linting**: ESLint with TypeScript support
+- **Styling**: Emotion (CSS-in-JS), Material-UI theming
+
+## 📁 Project Structure
+
+```
+src/
+├── components/         # Reusable UI components
+├── contexts/          # React contexts (Theme, Progress)
+├── data/             # Static data (lessons, dictionary)
+├── hooks/            # Custom React hooks
+├── i18n/             # Internationalization setup and translations
+├── pages/            # Main application pages
+├── utils/            # Utility functions and helpers
+└── assets/           # Static assets (images, icons)
+
+public/
+├── locales/          # Translation files
+└── sitelen-pona/     # Toki Pona hieroglyphic script assets
 ```
 
 ## Localization & Internationalization
@@ -97,40 +120,111 @@ If you add another RTL language (e.g. Hebrew `he`, Persian `fa`), add its code t
 
 If a translation key is missing in the selected locale, i18next falls back to English (`fallbackLng: 'en'`). Lesson and dictionary helpers also gracefully fall back to English content when a target language entry is absent.
 
-### Contributing Translations
+### Guidelines for Translation Contributors
 
-Please keep structural parity across locales:
+Please maintain consistency across locales:
 
-- Maintain identical lesson section ordering and keys.
-- Supply culturally appropriate, neutral phrasing.
-- Avoid hard‑coding direction-specific styling—direction is handled globally.
+- Keep identical lesson section ordering and translation keys
+- Use culturally appropriate, neutral phrasing
+- Avoid hardcoding direction-specific styling (handled globally)
+- Test your translations thoroughly before submitting
+- Follow the existing code style and structure
+
+## 📚 About Toki Pona
+
+Toki Pona is a philosophical artistic constructed language created by Canadian linguist Sonja Lang in 2001. With only 137 official words, it's designed to express maximal meaning with minimal complexity, encouraging speakers to break down complex thoughts into simple, fundamental concepts.
+
+### Core Philosophy
+- **Minimalism**: Express complex ideas with simple vocabulary
+- **Clarity**: Focus on essential meaning rather than elaborate detail
+- **Universality**: Concepts that transcend cultural and linguistic barriers
+- **Mindfulness**: Deliberate thought about what we really want to communicate
+
+## 🤝 Contributing
+
+Contributions are welcome! Please feel free to submit a Pull Request. For major changes, please open an issue first to discuss what you would like to change.
+
+### Development Guidelines
+1. Fork the repository
+2. Create a feature branch (`git checkout -b feature/AmazingFeature`)
+3. Make your changes following the existing code style
+4. Add tests for new functionality
+5. Run the test suite to ensure everything works
+6. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
+7. Push to the branch (`git push origin feature/AmazingFeature`)
+8. Open a Pull Request
+
+## 📄 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## 🙏 Acknowledgments
+
+- **Sonja Lang** - Creator of Toki Pona
+- **Toki Pona Community** - For resources, feedback, and inspiration
+- **Contributors** - Everyone who has contributed translations, code, or feedback
+- **Open Source Libraries** - React, Material-UI, i18next, and all other dependencies
+
+## 📞 Support
+
+If you have questions, suggestions, or need help:
+
+- 🐛 **Bug Reports**: Open an issue on GitHub
+- 💡 **Feature Requests**: Open an issue with the "enhancement" label
+- 💬 **General Questions**: Start a discussion on GitHub
+- 🌐 **Translation Help**: Check the translation guidelines above
 
 ---
-You can also install [eslint-plugin-react-x](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-x) and [eslint-plugin-react-dom](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-dom) for React-specific lint rules:
 
-```js
-// eslint.config.js
-import reactX from 'eslint-plugin-react-x'
-import reactDom from 'eslint-plugin-react-dom'
+**pona tawa sina!** (Good luck to you!) 🌱
 
-export default defineConfig([
-  globalIgnores(['dist']),
-  {
-    files: ['**/*.{ts,tsx}'],
-    extends: [
-      // Other configs...
-      // Enable lint rules for React
-      reactX.configs['recommended-typescript'],
-      // Enable lint rules for React DOM
-      reactDom.configs.recommended,
-    ],
-    languageOptions: {
-      parserOptions: {
-        project: ['./tsconfig.node.json', './tsconfig.app.json'],
-        tsconfigRootDir: import.meta.dirname,
-      },
-      // other options...
-    },
-  },
-])
+## 🎯 Pages & Features
+
+- **Home**: Landing page with overview and quick access to main features
+- **Lessons**: Structured learning modules covering Toki Pona fundamentals
+- **Dictionary**: Searchable dictionary with examples and usage notes
+- **Practice**: Interactive exercises and quizzes to test your knowledge
+- **Translator**: Bidirectional translation tool with context awareness
+- **Analytics**: Detailed progress tracking and learning statistics
+- **Achievements**: Badge system to gamify the learning experience
+- **Settings**: Customize interface language, theme, and preferences
+- **About**: Information about Toki Pona, the project, and contributors
+
+## 🔧 Development
+
+### Prerequisites
+
+- Node.js 18+
+- npm or yarn
+
+### Available Scripts
+
+```bash
+npm start          # Start development server
+npm run dev        # Alternative dev command
+npm run build      # Build for production
+npm run lint       # Run ESLint
+npm run preview    # Preview production build
+npm test           # Run tests
+npm run test:ui    # Run tests with UI
+npm run test:ci    # Run tests with coverage
+npm run test:watch # Run tests in watch mode
 ```
+
+### Code Quality
+
+This project uses:
+- **ESLint** with TypeScript-aware rules
+- **TypeScript** in strict mode
+- **Vitest** for testing with coverage reports
+- **Prettier** integration (via ESLint)
+
+### Type Checking
+
+```bash
+npx tsc --noEmit  # Check types without emitting files
+```
+
+## 🌍 Contributing Translations
+
+We welcome contributions to expand language support! Here's how to add or improve translations:
