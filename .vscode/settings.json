@@ -16,5 +16,10 @@
     "statusBar.debuggingBorder": "#7d6b04",
     "tab.activeBorder": "#061fae",
     "titleBar.border": "#04167d"
-  }
+  },
+  "i18n-ally.localesPaths": [
+    "public/locales",
+    "src/i18n",
+    "src/i18n/locales"
+  ]
 }
